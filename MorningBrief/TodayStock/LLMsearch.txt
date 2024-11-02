@@ -1,0 +1,43 @@
+Here’s the English translation for the provided text:
+
+---
+
+**NVIDIA, Tesla, Microsoft**
+
+NVIDIA, Tesla, and Microsoft are leaders in the AI, electric vehicle, and software and cloud services sectors, respectively. Here’s an overview of the latest trends and stock information for each company.
+
+**NVIDIA**
+
+NVIDIA has gained attention through its innovation in the AI and GPU fields. In June 2024, NVIDIA became the world’s most valuable company, with a market cap of $3.335 trillion, surpassing both Microsoft and Apple. This is attributed to the rising demand for AI chips, which drove its stock price up. Additionally, NVIDIA introduced its next-generation AI chip, the "B100," in March 2024. The B100 offers up to 30 times the performance of its predecessor, the H100, while reducing costs and energy consumption by up to 25 times. Thanks to these innovations, NVIDIA reached the top spot in market cap in June 2024, showcasing rapid growth driven by the increasing demand for AI chips. Although recent stock prices have shown volatility due to profit-taking, NVIDIA’s growth potential in AI and semiconductors remains noteworthy.
+
+**Tesla**
+
+Tesla maintains a dominant position in the electric vehicle market and is also accelerating its development of autonomous driving technology. In October 2024, Tesla unveiled its autonomous robo-taxi, the "Cyber Cab," a fully autonomous vehicle with no steering wheel or pedals, targeting mass production by 2026. Additionally, Tesla showcased a 20-passenger autonomous electric van called "RoboVan" and the latest version of its humanoid robot, "Optimus." These technological innovations are expected to drive Tesla's future growth. As of November 1, 2024, Tesla’s stock closed at $248.98, down 0.35% from the previous day, attributed to profit-taking after recent price increases.
+
+**Microsoft**
+
+Microsoft is focusing on AI technology development, leveraging its strengths in software and cloud services. On October 30, 2024, Microsoft reported its Q3 (fiscal year Q1) earnings, exceeding Wall Street’s projections due to rapid growth in its Azure cloud infrastructure business. Additionally, Microsoft launched the "Copilot+ PC," equipped with generative AI capabilities, which can perform AI tasks without internet connectivity and is claimed to be 58% faster than the MacBook Air. On November 1, 2024, Microsoft’s stock closed at $428.15, up 0.81% from the previous day, a reflection of the general strength in tech stocks.
+
+These insights provide a helpful overview of each company's current status and future prospects.
+
+---
+
+For the latest developments related to NVIDIA, Tesla, and Microsoft in the past 24 hours:
+
+**NVIDIA**
+
+- **Dow Jones Industrial Average Inclusion:** NVIDIA is set to be officially included in the Dow Jones Industrial Average (DJIA) on November 8, replacing Intel, which has been part of the index since 1999. This shift symbolizes a change in the U.S. semiconductor industry’s icon from Intel to NVIDIA.
+- **Stock Trend:** Following the announcement, NVIDIA’s stock rose by 2% in after-hours trading, reflecting investor optimism.
+
+**Tesla**
+
+- **Stock Trend:** On November 1 (local time) on the New York Stock Exchange, Tesla's stock closed at $248.98, down 0.35% from the previous day, a result of profit-taking after recent stock increases.
+- **Domestic Ambassador:** South Korean shooter Kim Ye-ji was selected as Tesla’s first ambassador in Korea. She gained attention for setting a world record in the women’s 25m pistol event at the ISSF World Cup in Baku last May.
+
+**Microsoft**
+
+- **Stock Trend:** On November 1, Microsoft’s stock closed at $428.15, up 0.81% from the previous day, driven by overall strength in tech stocks.
+- **AI Investment:** Microsoft invested $1.5 billion in Abu Dhabi-based AI company G42, acquiring a minority stake. Through this investment, G42 will use Microsoft’s Azure platform for AI development and deployment.
+
+These developments highlight the recent trends and strategic moves of each company, attracting attention from investors and industry stakeholders.
+
